@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-06/21/2018 15:05-king)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+Libraries: E:\simpleJenkinsPlugin\demo-plugin\src\main\resources,E:\si
+ mpleJenkinsPlugin\demo-plugin\target\classes,C:\Users\king\.m2\reposi
+ tory\org\codehaus\jackson\jackson-core-asl\1.9.11\jackson-core-asl-1.
+ 9.11.jar,C:\Users\king\.m2\repository\org\codehaus\jackson\jackson-ma
+ pper-asl\1.9.11\jackson-mapper-asl-1.9.11.jar
+Resource-Path: E:\simpleJenkinsPlugin\demo-plugin\src\main\webapp
+

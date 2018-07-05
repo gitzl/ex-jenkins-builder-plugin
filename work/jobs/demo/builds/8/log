@@ -1,0 +1,9 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace E:\simpleJenkinsPlugin\demo-plugin\work\jobs\demo\workspace
+the url :http://118.31.50.65:8080stack: jenkinsTestservice:testtype:serviceimage:nginxserviceType:service
+url:  http://118.31.50.65:8080/orchestration/api/env/e094e7a7-1cb9-40e3-9b5d-82fb51bc9e5c/namespace/ns-team-1-env-1
+²¿Êð/Éý¼¶¾µÏñ[nginx]µ½Ó¦ÓÃ¶ÑÕ»jenkinsTest->test
+json: {"serviceType":"service","image":"nginx","stackName":"jenkinsTest","serviceName":"test"}
+¸üÐÂ¾µÏñ³É¹¦
+Hello, Deploy!
+Finished: SUCCESS

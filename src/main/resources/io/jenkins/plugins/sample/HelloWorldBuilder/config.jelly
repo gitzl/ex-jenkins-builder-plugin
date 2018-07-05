@@ -1,0 +1,45 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <f:entry title="名称" field="name">
+        <f:textbox />
+    </f:entry>
+     <f:entry title="wiseCloud地址" field="address">
+            <f:textbox />
+     </f:entry>
+
+     <f:entry title="环境UUID" field="envUuid">
+                  <f:textbox />
+     </f:entry>
+
+     <f:entry title="命名空间" field="nameSpace">
+                         <f:textbox />
+     </f:entry>
+    <f:entry title="堆栈名" field="stack">
+            <f:textbox />
+     </f:entry>
+    <f:entry title="服务名" field="service">
+                <f:textbox />
+    </f:entry>
+      <f:entry name="serviceType" title="服务类型" field="serviceType">
+            <select name="serviceType">
+                <option value="service">无状态</option>
+                <option value="job">任务</option>
+                <option value="cronJob">定时任务</option>
+                <option value="stateful">有状态服务</option>
+            </select>
+        </f:entry>
+    <f:entry title="镜像" field="image">
+                    <f:textbox />
+    </f:entry>
+    <f:entry title="TOKEN" field="token">
+                  <f:textbox />
+    </f:entry>
+    <!--
+    <f:advanced>
+        <f:entry title="${%French}" field="useFrench"
+                 description="${%FrenchDescr}">
+            <f:checkbox />
+        </f:entry>
+    </f:advanced>
+    -->
+</j:jelly>

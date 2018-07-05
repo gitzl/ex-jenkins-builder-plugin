@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <io.jenkins.plugins.sample.HelloWorldAction plugin="demo@1.0-SNAPSHOT">
+      <name>DeployToWiseCloud</name>
+    </io.jenkins.plugins.sample.HelloWorldAction>
+  </actions>
+  <queueId>1</queueId>
+  <timestamp>1528438823124</timestamp>
+  <startTime>1528438823143</startTime>
+  <result>SUCCESS</result>
+  <duration>2333</duration>
+  <charset>GBK</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>E:\simpleJenkinsPlugin\demo-plugin\work\jobs\demo\workspace</workspace>
+  <hudsonVersion>2.7.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
