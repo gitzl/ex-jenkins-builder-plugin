@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ba7bf5-d759-412c-8481-3584ed08212f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wisecloud-deploy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/jenkins/plugins/sample/HelloWorldBuilder.stapler" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/jenkins/plugins/sample/HelloWorldBuilder.stapler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/jenkins/plugins/sample/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/jenkins/plugins/sample/Messages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/localizer/io/jenkins/plugins/sample/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/localizer/io/jenkins/plugins/sample/Messages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
@@ -38,42 +25,13 @@
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-use.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/META-INF/JENKINS.SF" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/META-INF/JENKINS.SF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/WEB-INF/jboss-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/scm-browsers/list_de.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/scm-browsers/list_de.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/homeDirectory_zh_CN.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/homeDirectory_zh_CN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/master-slave/numExecutors_zh_CN.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/master-slave/numExecutors_zh_CN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/master-slave/usage_zh_CN.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/master-slave/usage_zh_CN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/systemMessage_zh_CN.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/system-config/systemMessage_zh_CN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/tools/help-label_de.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/tools/help-label_de.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/webapp/help/tools/help-label_zh_CN.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/webapp/help/tools/help-label_zh_CN.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.5" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/ace-editor/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/ace-editor/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/display-url-api/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/display-url-api/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/durable-task/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/durable-task/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/jquery-detached/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/jquery-detached/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/junit/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/junit/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/mailer/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/mailer/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/null/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/null/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/scm-api/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/scm-api/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/script-security/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/script-security/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/structs/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/structs/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/plugins/wisecloud-deploy.hpl" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/wisecloud-deploy.hpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-api/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-api/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-basic-steps/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-basic-steps/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-cps/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-cps/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-durable-task-step/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-durable-task-step/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-job/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-job/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-scm-step/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-scm-step/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-step-api/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-step-api/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/workflow-support/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/workflow-support/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/secrets/filepath-filters.d/30-default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/work/secrets/filepath-filters.d/30-default.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584792293737</updated>
-      <workItem from="1584792297362" duration="8040000" />
+      <workItem from="1584792297362" duration="9052000" />
     </task>
     <servers />
   </component>

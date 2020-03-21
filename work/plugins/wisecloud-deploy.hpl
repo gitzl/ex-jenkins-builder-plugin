@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Group-Id: io.jenkins.plugins
 Short-Name: wisecloud-deploy
 Long-Name: TODO Plugin
-Plugin-Version: 1.0-SNAPSHOT (private-39707573-zhongliang)
+Plugin-Version: 1.0-SNAPSHOT (private-f11bfa57-zhongliang)
 Hudson-Version: 2.7.3
 Jenkins-Version: 2.7.3
 Plugin-Dependencies: structs:1.7
