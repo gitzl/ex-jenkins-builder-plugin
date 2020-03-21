@@ -22,7 +22,7 @@ $ mvn verify
 
 ````
 
-## start
+## Start
 
 ```
 $ mvn hpi:run 
@@ -35,7 +35,7 @@ If Jenkins is fully up and running ,visiting http://localhost:8080/jenkins in yo
 ![](demo.png)
 
 
-## develop-Plugin-steps
+## Develop-Plugin-Steps
 
 Develop the Plugin steps and detail , at the blog : https://gitzl.github.io/2019/02/17/jenkinsPlugin/
 
