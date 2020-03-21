@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ba7bf5-d759-412c-8481-3584ed08212f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldAction.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldAction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldBuilder.DescriptorImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldBuilder.DescriptorImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/HelloWorldBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/Messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/Messages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldAction.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldAction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldBuilder.DescriptorImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldBuilder.DescriptorImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/HelloWorldBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/Messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/class-use/Messages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/io/jenkins/plugins/sample/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.5" beforeDir="false" afterPath="$PROJECT_DIR$/work/logs/tasks/Download metadata.log.5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/plugins/wisecloud-deploy.hpl" beforeDir="false" afterPath="$PROJECT_DIR$/work/plugins/wisecloud-deploy.hpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584792293737</updated>
-      <workItem from="1584792297362" duration="9052000" />
+      <workItem from="1584792297362" duration="9184000" />
     </task>
     <servers />
   </component>

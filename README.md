@@ -10,7 +10,7 @@ Requirement:
 
 - [Install](#install)
 - [Start](#start)
-- [Show Demo](#demo)
+- [Show Demo](#show-demo)
 - [Develop Plugin steps](#develop-Plugin-steps)
 
 
@@ -30,7 +30,7 @@ $ mvn hpi:run
 ```
 If Jenkins is fully up and running ,visiting http://localhost:8080/jenkins in your browser
 
-## Demo
+## Show Demo
 
 ![](demo.png)
 
