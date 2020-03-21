@@ -2,15 +2,17 @@ Manifest-Version: 1.0
 Group-Id: io.jenkins.plugins
 Short-Name: wisecloud-deploy
 Long-Name: TODO Plugin
-Plugin-Version: 1.0-SNAPSHOT (private-07/05/2018 10:00-king)
+Plugin-Version: 1.0-SNAPSHOT (private-39707573-zhongliang)
 Hudson-Version: 2.7.3
 Jenkins-Version: 2.7.3
 Plugin-Dependencies: structs:1.7
 Plugin-Developers: 
-Libraries: E:\simpleJenkinsPlugin\demo-plugin\src\main\resources,E:\si
- mpleJenkinsPlugin\demo-plugin\target\classes,C:\Users\king\.m2\reposi
- tory\org\codehaus\jackson\jackson-core-asl\1.9.11\jackson-core-asl-1.
- 9.11.jar,C:\Users\king\.m2\repository\org\codehaus\jackson\jackson-ma
- pper-asl\1.9.11\jackson-mapper-asl-1.9.11.jar
-Resource-Path: E:\simpleJenkinsPlugin\demo-plugin\src\main\webapp
+Libraries: /Users/zhongliang/github/ex-jenkins-builder-plugin/src/main
+ /resources,/Users/zhongliang/github/ex-jenkins-builder-plugin/target/
+ classes,/Users/zhongliang/.m2/repository/org/codehaus/jackson/jackson
+ -core-asl/1.9.11/jackson-core-asl-1.9.11.jar,/Users/zhongliang/.m2/re
+ pository/org/codehaus/jackson/jackson-mapper-asl/1.9.11/jackson-mappe
+ r-asl-1.9.11.jar
+Resource-Path: /Users/zhongliang/github/ex-jenkins-builder-plugin/src/
+ main/webapp
 

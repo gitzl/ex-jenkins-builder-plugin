@@ -1,3 +1,3 @@
-E:\simpleJenkinsPlugin\demo-plugin\src\main\java\io\jenkins\plugins\sample\HelloWorldAction.java
-E:\simpleJenkinsPlugin\demo-plugin\src\main\java\io\jenkins\plugins\sample\HelloWorldBuilder.java
-E:\simpleJenkinsPlugin\demo-plugin\target\generated-sources\localizer\io\jenkins\plugins\sample\Messages.java
+/Users/zhongliang/github/ex-jenkins-builder-plugin/src/main/java/io/jenkins/plugins/sample/HelloWorldBuilder.java
+/Users/zhongliang/github/ex-jenkins-builder-plugin/src/main/java/io/jenkins/plugins/sample/HelloWorldAction.java
+/Users/zhongliang/github/ex-jenkins-builder-plugin/target/generated-sources/localizer/io/jenkins/plugins/sample/Messages.java

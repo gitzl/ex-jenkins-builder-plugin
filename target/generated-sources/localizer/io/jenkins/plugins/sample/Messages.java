@@ -26,7 +26,7 @@ public class Messages {
     private final static ResourceBundleHolder holder = ResourceBundleHolder.get(Messages.class);
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
+     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
      * hello world}.
      * 
      * @return
@@ -37,7 +37,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
+     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
      * hello world}.
      * 
      * @return
@@ -48,7 +48,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.tooShort}: {@code
+     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.tooShort}: {@code
      * Isn't the name too short?}.
      * 
      * @return
@@ -59,7 +59,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.tooShort}: {@code
+     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.tooShort}: {@code
      * Isn't the name too short?}.
      * 
      * @return
@@ -70,7 +70,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.reallyFrench}:
+     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.reallyFrench}:
      * {@code Are you actually French?}.
      * 
      * @return
@@ -81,7 +81,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.reallyFrench}:
+     * Key {@code HelloWorldBuilder.DescriptorImpl.warnings.reallyFrench}:
      * {@code Are you actually French?}.
      * 
      * @return
@@ -92,7 +92,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.errors.missingName}:
+     * Key {@code HelloWorldBuilder.DescriptorImpl.errors.missingName}:
      * {@code Please set a name}.
      * 
      * @return
@@ -103,7 +103,7 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.errors.missingName}:
+     * Key {@code HelloWorldBuilder.DescriptorImpl.errors.missingName}:
      * {@code Please set a name}.
      * 
      * @return
