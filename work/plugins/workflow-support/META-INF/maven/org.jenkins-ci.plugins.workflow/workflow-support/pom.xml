@@ -64,7 +64,7 @@
     <properties>
         <jenkins.version>1.642.3</jenkins.version>
         <no-test-jar>false</no-test-jar>
-        <git-plugin.version>3.0.5</git-plugin.version>
+        <git-plugin.version>4.11.2</git-plugin.version>
     </properties>
     <dependencies>
         <dependency>
