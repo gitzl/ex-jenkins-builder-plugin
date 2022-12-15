@@ -67,7 +67,7 @@
         <no-test-jar>false</no-test-jar>
         <workflow-support-plugin.version>2.2</workflow-support-plugin.version>
         <scm-api-plugin.version>2.1.1</scm-api-plugin.version>
-        <git-plugin.version>3.2.0</git-plugin.version>
+        <git-plugin.version>4.11.5</git-plugin.version>
     </properties>
     <dependencies>
         <dependency>
